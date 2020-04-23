@@ -1,0 +1,30 @@
+﻿<Dekanate>
+  <StudentsList>
+    <!-- Groups of students -->
+    <Group Name ="Group1">
+      <Student Id ="1" Rating="25">
+        <Name>Ivan</Name>
+        <Surname>Ivanov</Surname>
+        <Patronymic>Ivanovich</Patronymic>
+        <DateBirth>26.10.2001</DateBirth>
+      </Student>
+      <Student Id ="2" Rating="15">
+        <Name>Sidor</Name>
+        <Surname>Sidorov</Surname>
+        <Patronymic>Sidorovich</Patronymic>
+        <DateBirth>1.2.1999</DateBirth>
+      </Student>
+    </Group>
+    <Group Name ="Group2">
+      <Student Id ="3" Rating="65">
+        <Name>Pyotr</Name>
+        <Surname>Pyetrov</Surname>
+        <Patronymic>Pyetrovich</Patronymic>
+        <DateBirth>29.5.2000</DateBirth>
+      </Student>
+    </Group>
+    <Group Name ="Group3">
+      
+    </Group>
+  </StudentsList>
+</Dekanate>
